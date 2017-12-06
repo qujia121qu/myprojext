@@ -2,9 +2,9 @@
 <project-module
   type="WEB"
   name="MyProject"
-  id="myeclipse.1512530324856"
+  id="myeclipse.1512531322484"
   context-root="/MyProject"
-  j2ee-spec="6.0"
+  j2ee-spec="5.0"
   archive="MyProject.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
